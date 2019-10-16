@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">companyList</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="large_text">
+       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate esse impedit ipsum ratione! A accusantium adipisci commodi cum ducimus fugiat officia velit, veniam voluptas! Ab blanditiis itaque iure quod sapiente."
+       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate esse impedit ipsum ratione! A accusantium adipisci commodi cum ducimus fugiat officia velit, veniam voluptas! Ab blanditiis itaque iure quod sapiente."
+       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate esse impedit ipsum ratione! A accusantium adipisci commodi cum ducimus fugiat officia velit, veniam voluptas! Ab blanditiis itaque iure quod sapiente."
+       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate esse impedit ipsum ratione! A accusantium adipisci commodi cum ducimus fugiat officia velit, veniam voluptas! Ab blanditiis itaque iure quod sapiente."
+       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate esse impedit ipsum ratione! A accusantium adipisci commodi cum ducimus fugiat officia velit, veniam voluptas! Ab blanditiis itaque iure quod sapiente."
+       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate esse impedit ipsum ratione! A accusantium adipisci commodi cum ducimus fugiat officia velit, veniam voluptas! Ab blanditiis itaque iure quod sapiente."
+       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate esse impedit ipsum ratione! A accusantium adipisci commodi cum ducimus fugiat officia velit, veniam voluptas! Ab blanditiis itaque iure quod sapiente."
+    </string>
+    <string name="action_settings">Settings</string>
 </resources>
